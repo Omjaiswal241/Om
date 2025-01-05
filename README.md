@@ -1,1 +1,1 @@
-# Om
+Technical Training code
