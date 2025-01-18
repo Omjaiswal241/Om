@@ -1,3 +1,4 @@
+// Find the two non-repeating elements in an array of repeating elements
 class Solution {
     public int[] singleNumber(int[] nums) {
       int xor=0;
