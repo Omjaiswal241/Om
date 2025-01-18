@@ -1,4 +1,4 @@
-// Count total set bits in all numbers from 1 to n
+// Count set bits in an integer
 import java.util.*;
 class C_setbit
 {
