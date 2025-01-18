@@ -1,3 +1,4 @@
+// Program to find whether a no. is power of two
 import java.util.*;
 class Power
 {
