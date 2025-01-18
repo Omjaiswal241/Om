@@ -1,3 +1,4 @@
+// Find the position of the only set bit
 import java.util.*;
 class Position
 {
