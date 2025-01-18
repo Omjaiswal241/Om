@@ -1,4 +1,4 @@
-// Butterfly
+// Butterfly Pattern
 import java.util.*;
 class Butterfly
 {
