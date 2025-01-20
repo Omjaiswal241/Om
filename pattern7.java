@@ -1,3 +1,4 @@
+// Pattern 7
 import java.util.*;
 class Pattern7
 {
